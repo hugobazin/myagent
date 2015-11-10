@@ -34,8 +34,8 @@ body {
 /* Lead with big image */
 
 .wrapper {
-  background-image: url('../images/fond.jpg');
-  height: 650px;
+  background-image: url('../images/image-fond-lewagon.jpg') ;
+  height: 680px;
   background-size: cover;
   padding-top: 150px;
   text-align: center;
